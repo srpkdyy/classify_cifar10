@@ -1,5 +1,5 @@
 # classify_cifar10
-多様なフレームワークやモデルによるCIFAR10の分類
+CIFAR10の分類
 
 ## Chainer
 ### MLP
